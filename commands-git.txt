@@ -13,4 +13,4 @@ git pull
 Pour créer une nouvelle branche et basculer directement dessus :
 git checkout -b "nom de la branche"
 
-fin du tuto
+fin du tuto sur github
