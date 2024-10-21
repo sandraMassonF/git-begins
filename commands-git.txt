@@ -9,3 +9,8 @@ git push
 
 Pour récupérer les dernieres mises à jour sur github sur vs code
 git pull
+
+Pour créer une nouvelle branche et basculer directement dessus :
+git checkout -b "nom de la branche"
+
+fin du tuto
