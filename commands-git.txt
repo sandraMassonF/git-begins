@@ -17,6 +17,6 @@ Pour regarder dans quelle branche on est :
 git branch
 
 Pour aller sur une branche :
-git chekout "nom de la branche"
+git checkout "nom de la branche"
 
 fin du tuto
