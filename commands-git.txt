@@ -12,11 +12,15 @@ git pull
 
 Pour créer une nouvelle branche et basculer directement dessus :
 git checkout -b "nom de la branche"
+ou
+git switch -c nom de la branche
 
 Pour regarder dans quelle branche on est :
 git branch
 
 Pour aller sur une branche :
 git checkout "nom de la branche"
+ou
+git switch nom de la branche
 
 fin du tuto
